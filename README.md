@@ -38,7 +38,7 @@ import io
 ```
 
 
-## **Running the application**
+### **Running the application**
 
 * Install all necessary packages for the application with the command below.
 
@@ -65,7 +65,12 @@ python3 main.py
 * **Android** -> Is not available : Estimated 09/04/2021
 
 
-## **In-app images**
+### **Official Launch Trailer**
+
+* Link : 
+
+
+### **In-app images**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54184905/102191665-c71fd480-3eca-11eb-8b25-be34225da45e.png" />
