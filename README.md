@@ -32,13 +32,24 @@ Additionally this module also enhance the security of the steganography through 
 
 ## **In-app images**
 
-![Screenshot_2020-12-15_11-28-29](https://user-images.githubusercontent.com/54184905/102191659-c5561100-3eca-11eb-8d4e-d2c4b346b984.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54184905/102191665-c71fd480-3eca-11eb-8b25-be34225da45e.png" />
+</p>
 
-![Screenshot_2020-12-15_11-28-23](https://user-images.githubusercontent.com/54184905/102191661-c6873e00-3eca-11eb-8359-8205c546537b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54184905/102191661-c6873e00-3eca-11eb-8359-8205c546537b.png" />
+</p>
 
-![Screenshot_2020-12-15_11-28-15](https://user-images.githubusercontent.com/54184905/102191665-c71fd480-3eca-11eb-8b25-be34225da45e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54184905/102191659-c5561100-3eca-11eb-8d4e-d2c4b346b984.png" />
+</p>
 
-![Screenshot_2020-12-15_11-28-41](https://user-images.githubusercontent.com/54184905/102191666-c71fd480-3eca-11eb-85ae-20340c88cbea.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54184905/102191667-c7b86b00-3eca-11eb-86eb-d05241978d0d.png" />
+</p>
 
-![Screenshot_2020-12-15_11-28-35](https://user-images.githubusercontent.com/54184905/102191667-c7b86b00-3eca-11eb-86eb-d05241978d0d.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54184905/102191666-c71fd480-3eca-11eb-85ae-20340c88cbea.png" />
+</p>
+
 
