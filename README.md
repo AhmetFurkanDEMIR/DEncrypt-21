@@ -67,7 +67,7 @@ python3 main.py
 
 ### **Official Launch Trailer**
 
-* Link : [https://www.linkedin.com/posts/1dfurkan_python-qt-qt5-activity-6744545395138953216-pYsB](https://www.linkedin.com/posts/1dfurkan_python-qt-qt5-activity-6744545395138953216-pYsB)
+* [Link](https://www.linkedin.com/posts/1dfurkan_python-qt-qt5-activity-6744545395138953216-pYsB)
 
 
 ### **In-app images**
