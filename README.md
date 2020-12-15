@@ -1,6 +1,7 @@
 * This application allows you to keep your images securely and to store your personal data in images. 
 
-* This application is written in Python and Qt, it has been tested on Linux (Pardus and Ubuntu) and MacOS (high sierra) operating systems.
+* This application is written in Python and Qt, it has been tested on Linux (Pardus and Ubuntu) and MacOS (High sierra) operating systems.
+
 
 ### **Application details**
 
@@ -15,3 +16,18 @@ A python steganography module to store messages or files protected with AES-256 
 Steganography is the art of concealing information within different types of media objects such as images or audio files, in such a way that no one, apart from the sender and intended recipient, suspects the existence of the message. By default steganography is a type of security through obscurity. 
 
 Additionally this module also enhance the security of the steganography through data encryption. The data concealed is encrypted using AES 256 encryption, a popular algorithm used in symmetric key cryptography. [cryptosteganography](https://pypi.org/project/cryptosteganography/)
+
+
+### **The future of practice**
+
+* The application will continue to be open source, and features such as document, pdf and audio file encryption will be introduced in the next versions.
+
+
+### **Platforms**
+
+* **Desktop** -> Available, Tested : Linux(Pardus, Ubuntu), macOS(High sierra)
+
+* **Android** -> Is not available : Estimated 09/04/2021
+
+
+## **In-app images**
