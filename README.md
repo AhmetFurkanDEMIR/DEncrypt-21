@@ -17,6 +17,41 @@ Steganography is the art of concealing information within different types of med
 
 Additionally this module also enhance the security of the steganography through data encryption. The data concealed is encrypted using AES 256 encryption, a popular algorithm used in symmetric key cryptography. [cryptosteganography](https://pypi.org/project/cryptosteganography/)
 
+* All modules used in the application.
+
+```python
+from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+from cryptography.hazmat.backends import default_backend
+from cryptosteganography import CryptoSteganography
+from cryptography.hazmat.primitives import hashes
+from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5.QtWidgets import QMainWindow
+from PyQt5.QtWidgets import QFileDialog
+from cryptography.fernet import Fernet
+from PyQt5.QtGui import QIcon
+from PIL import Image
+import cryptography
+import base64
+import sys
+import os
+import io
+```
+
+
+## **Running the application**
+
+* Install all necessary packages for the application with the command below.
+
+```linux
+pip3 install -r requirements.txt
+```
+
+* After installing the packages, you can use the application by running the following command while in the same directory as the application.
+
+```linux
+python3 main.py
+```
+
 
 ### **The future of practice**
 
